@@ -2,12 +2,16 @@
     "author": "Jason Tokoph <jason@tokoph.net> (http://tokoph.net)",
     "name": "nirc",
     "description": "Node IRC client library",
-    "version": "0.1.0",
-    "homepage": "http://www.tokoph.net",
+    "version": "0.1.1",
+    "homepage": "http://www.jasontokoph.com",
     "repository": {
         "type": "git",
         "url": "git://github.com/jtokoph/nirc.git"
     },
+    "contributors": [
+        { "name": "Jason Tokoph", "email": "jason@tokoph.net" },
+        { "name": "Christopher Fredén", "email": "c.freden@gmail.com" }
+    ],
     "main": "./lib/nirc.js",
     "engines": {
         "node": "0.4.x"
